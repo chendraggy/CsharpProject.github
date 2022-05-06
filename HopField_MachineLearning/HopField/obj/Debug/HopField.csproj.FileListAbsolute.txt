@@ -1,0 +1,11 @@
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\bin\Debug\HopField.exe.config
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\bin\Debug\HopField.exe
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\bin\Debug\HopField.pdb
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.csproj.AssemblyReference.cache
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.csproj.SuggestedBindingRedirects.cache
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.Form1.resources
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.Properties.Resources.resources
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.csproj.GenerateResource.cache
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.csproj.CoreCompileInputs.cache
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.exe
+C:\Users\a9710\OneDrive\桌面\HopField\HopField\obj\Debug\HopField.pdb
